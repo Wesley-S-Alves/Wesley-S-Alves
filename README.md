@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-silva-alves/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wesleysilvaalves)
 
 <hr />
-<p style="text-align: center;"><strong>&nbsp;I'm a Data Scientist currently looking for new oportunities</strong></p>
+<p style="text-align: center;"><strong>&nbsp;I'm currently looking for new oportunities</strong></p>
 
 ### My knowledges
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
